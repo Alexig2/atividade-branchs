@@ -1,11 +1,11 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(255, 255, 255);
+    background-color: lightblue;
 }
 
 h1 {
     text-align: center;
-    color: rgb(255, 226, 95);
+    color: white;
 }
 
 p {
@@ -34,4 +34,10 @@ img {
     border-width: 1px;
     border-color: black;
     border-radius: 10px;
+    background-color: white;
+}
+
+.botao {
+    margin: 20px;
+    margin-left: 40px;
 }
